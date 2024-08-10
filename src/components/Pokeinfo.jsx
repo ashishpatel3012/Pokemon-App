@@ -8,7 +8,7 @@ export const Pokeinfo = () => {
       />
       <div className="abilities">
         <div className="group">
-          <h2>blaze</h2>
+          <h2>blazeeeeeee</h2>
         </div>
         <div className="group">
           <h2>solar-power</h2>

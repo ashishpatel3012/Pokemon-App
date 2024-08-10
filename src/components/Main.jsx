@@ -15,10 +15,9 @@ export const Main = () => {
          <Card/>
          <Card/>
          <Card/>
-         <Card/>
-         <Card/>
+         
         
-       
+         origin https://github.com/ashishpatel3012/Pokemon-App.git
         
          <div className="btn-group">
           <button>Previous</button>
