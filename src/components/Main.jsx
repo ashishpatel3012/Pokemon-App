@@ -15,6 +15,8 @@ export const Main = () => {
          <Card/>
          <Card/>
          <Card/>
+         <Card/>
+         <Card/>
         
        
         
